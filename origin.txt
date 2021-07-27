@@ -1,0 +1,308 @@
+Uri: http://ayudaricardo.local/
+File Name: C:\Users\FABIAN\Desktop\CAMPAÑA LUCHO\ayudaricardo.local\index.htm
+Content Type: text/html
+
+Uri: http://ayudaricardo.local/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.10.0
+File Name: C:\Users\FABIAN\Desktop\CAMPAÑA LUCHO\ayudaricardo.local\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://ayudaricardo.local/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.10.0
+File Name: C:\Users\FABIAN\Desktop\CAMPAÑA LUCHO\ayudaricardo.local\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff2
+Content Type: 
+
+Uri: http://ayudaricardo.local/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.10.0
+File Name: C:\Users\FABIAN\Desktop\CAMPAÑA LUCHO\ayudaricardo.local\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff
+Content Type: application/font-woff
+
+Uri: http://ayudaricardo.local/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.10.0
+File Name: C:\Users\FABIAN\Desktop\CAMPAÑA LUCHO\ayudaricardo.local\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.ttf
+Content Type: application/font-sfnt
+
+Uri: http://ayudaricardo.local/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.10.0
+File Name: C:\Users\FABIAN\Desktop\CAMPAÑA LUCHO\ayudaricardo.local\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.svg
+Content Type: image/svg+xml
+
+Uri: http://ayudaricardo.local/feed/
+File Name: C:\Users\FABIAN\Desktop\CAMPAÑA LUCHO\ayudaricardo.local\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://ayudaricardo.local/comments/feed/
+File Name: C:\Users\FABIAN\Desktop\CAMPAÑA LUCHO\ayudaricardo.local\comments\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://ayudaricardo.local/wp-includes/css/dist/block-library/style.min.css?ver=5.8
+File Name: C:\Users\FABIAN\Desktop\CAMPAÑA LUCHO\ayudaricardo.local\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: http://ayudaricardo.local/wp-content/themes/hello-elementor/style.min.css?ver=2.2.0
+File Name: C:\Users\FABIAN\Desktop\CAMPAÑA LUCHO\ayudaricardo.local\wp-content\themes\hello-elementor\style.min.css
+Content Type: text/css
+
+Uri: http://ayudaricardo.local/wp-content/themes/hello-elementor/theme.min.css?ver=2.2.0
+File Name: C:\Users\FABIAN\Desktop\CAMPAÑA LUCHO\ayudaricardo.local\wp-content\themes\hello-elementor\theme.min.css
+Content Type: text/css
+
+Uri: http://ayudaricardo.local/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.12.0
+File Name: C:\Users\FABIAN\Desktop\CAMPAÑA LUCHO\ayudaricardo.local\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: http://ayudaricardo.local/wp-content/plugins/elementor/assets/css/frontend-legacy.min.css?ver=3.3.1
+File Name: C:\Users\FABIAN\Desktop\CAMPAÑA LUCHO\ayudaricardo.local\wp-content\plugins\elementor\assets\css\frontend-legacy.min.css
+Content Type: text/css
+
+Uri: http://ayudaricardo.local/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.3.1
+File Name: C:\Users\FABIAN\Desktop\CAMPAÑA LUCHO\ayudaricardo.local\wp-content\plugins\elementor\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: http://ayudaricardo.local/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=4.4.2
+File Name: C:\Users\FABIAN\Desktop\CAMPAÑA LUCHO\ayudaricardo.local\wp-content\plugins\elementor\assets\lib\font-awesome\css\all.min.css
+Content Type: text/css
+
+Uri: http://ayudaricardo.local/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=3.3.1
+File Name: C:\Users\FABIAN\Desktop\CAMPAÑA LUCHO\ayudaricardo.local\wp-content\plugins\elementor\assets\lib\font-awesome\css\v4-shims.min.css
+Content Type: text/css
+
+Uri: http://ayudaricardo.local/wp-content/uploads/elementor/css/post-1926.css?ver=1627347166
+File Name: C:\Users\FABIAN\Desktop\CAMPAÑA LUCHO\ayudaricardo.local\wp-content\uploads\elementor\css\post-1926.css
+Content Type: text/css
+
+Uri: http://ayudaricardo.local/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3
+File Name: C:\Users\FABIAN\Desktop\CAMPAÑA LUCHO\ayudaricardo.local\wp-content\plugins\elementor\assets\lib\font-awesome\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: http://ayudaricardo.local/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3
+File Name: C:\Users\FABIAN\Desktop\CAMPAÑA LUCHO\ayudaricardo.local\wp-content\plugins\elementor\assets\lib\font-awesome\css\brands.min.css
+Content Type: text/css
+
+Uri: http://ayudaricardo.local/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.15.3
+File Name: C:\Users\FABIAN\Desktop\CAMPAÑA LUCHO\ayudaricardo.local\wp-content\plugins\elementor\assets\lib\font-awesome\css\regular.min.css
+Content Type: text/css
+
+Uri: http://ayudaricardo.local/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3
+File Name: C:\Users\FABIAN\Desktop\CAMPAÑA LUCHO\ayudaricardo.local\wp-content\plugins\elementor\assets\lib\font-awesome\css\solid.min.css
+Content Type: text/css
+
+Uri: http://ayudaricardo.local/wp-json/
+File Name: C:\Users\FABIAN\Desktop\CAMPAÑA LUCHO\ayudaricardo.local\wp-json\index.json
+Content Type: application/json
+
+Uri: http://ayudaricardo.local/wp-json/wp/v2/pages/1926
+File Name: C:\Users\FABIAN\Desktop\CAMPAÑA LUCHO\ayudaricardo.local\wp-json\wp\v2\pages\1926.json
+Content Type: application/json
+
+Uri: http://ayudaricardo.local/xmlrpc.php?rsd
+File Name: C:\Users\FABIAN\Desktop\CAMPAÑA LUCHO\ayudaricardo.local\xmlrpc.xml
+Content Type: text/xml
+
+Uri: http://ayudaricardo.local/wp-includes/wlwmanifest.xml
+File Name: C:\Users\FABIAN\Desktop\CAMPAÑA LUCHO\ayudaricardo.local\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: http://ayudaricardo.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fayudaricardo.local%2F
+File Name: C:\Users\FABIAN\Desktop\CAMPAÑA LUCHO\ayudaricardo.local\wp-json\oembed\1.0\embed.json
+Content Type: application/json
+
+Uri: http://ayudaricardo.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fayudaricardo.local%2F&format=xml
+File Name: C:\Users\FABIAN\Desktop\CAMPAÑA LUCHO\ayudaricardo.local\wp-json\oembed\1.0\embed.xml
+Content Type: text/xml
+
+Uri: http://ayudaricardo.local/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.3.1
+File Name: C:\Users\FABIAN\Desktop\CAMPAÑA LUCHO\ayudaricardo.local\wp-content\plugins\elementor\assets\lib\animations\animations.min.css
+Content Type: text/css
+
+Uri: http://ayudaricardo.local/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.3.1
+File Name: C:\Users\FABIAN\Desktop\CAMPAÑA LUCHO\ayudaricardo.local\wp-content\plugins\elementor\assets\lib\font-awesome\js\v4-shims.min.js
+Content Type: application/javascript
+
+Uri: http://ayudaricardo.local/wp-content/uploads/2021/07/logo.png
+File Name: C:\Users\FABIAN\Desktop\CAMPAÑA LUCHO\ayudaricardo.local\wp-content\uploads\2021\07\logo.png
+Content Type: image/png
+
+Uri: http://ayudaricardo.local/wp-content/uploads/2021/07/qr-yape.jpg
+File Name: C:\Users\FABIAN\Desktop\CAMPAÑA LUCHO\ayudaricardo.local\wp-content\uploads\2021\07\qr-yape.jpg
+Content Type: image/jpeg
+
+Uri: http://ayudaricardo.local/wp-content/uploads/2021/07/10733779_10153782367121414_6513946227814466609_o-1024x1024.jpg
+File Name: C:\Users\FABIAN\Desktop\CAMPAÑA LUCHO\ayudaricardo.local\wp-content\uploads\2021\07\10733779_10153782367121414_6513946227814466609_o-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: http://ayudaricardo.local/wp-content/uploads/2021/07/223002_10150228170661414_956921_n.jpg
+File Name: C:\Users\FABIAN\Desktop\CAMPAÑA LUCHO\ayudaricardo.local\wp-content\uploads\2021\07\223002_10150228170661414_956921_n.jpg
+Content Type: image/jpeg
+
+Uri: http://ayudaricardo.local/wp-content/uploads/2021/07/554708_10151258063091414_135179390_n.jpg
+File Name: C:\Users\FABIAN\Desktop\CAMPAÑA LUCHO\ayudaricardo.local\wp-content\uploads\2021\07\554708_10151258063091414_135179390_n.jpg
+Content Type: image/jpeg
+
+Uri: http://ayudaricardo.local/wp-content/uploads/2021/07/171099_10150124729356414_737386_o-1024x1024.jpg
+File Name: C:\Users\FABIAN\Desktop\CAMPAÑA LUCHO\ayudaricardo.local\wp-content\uploads\2021\07\171099_10150124729356414_737386_o-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: http://ayudaricardo.local/wp-includes/js/wp-embed.min.js?ver=5.8
+File Name: C:\Users\FABIAN\Desktop\CAMPAÑA LUCHO\ayudaricardo.local\wp-includes\js\wp-embed.min.js
+Content Type: application/javascript
+
+Uri: http://ayudaricardo.local/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.3.1
+File Name: C:\Users\FABIAN\Desktop\CAMPAÑA LUCHO\ayudaricardo.local\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/javascript
+
+Uri: http://ayudaricardo.local/wp-includes/js/jquery/jquery.min.js?ver=3.6.0
+File Name: C:\Users\FABIAN\Desktop\CAMPAÑA LUCHO\ayudaricardo.local\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: http://ayudaricardo.local/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Users\FABIAN\Desktop\CAMPAÑA LUCHO\ayudaricardo.local\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: http://ayudaricardo.local/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.3.1
+File Name: C:\Users\FABIAN\Desktop\CAMPAÑA LUCHO\ayudaricardo.local\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/javascript
+
+Uri: http://ayudaricardo.local/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Users\FABIAN\Desktop\CAMPAÑA LUCHO\ayudaricardo.local\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: application/javascript
+
+Uri: http://ayudaricardo.local/wp-includes/js/jquery/ui/core.min.js?ver=1.12.1
+File Name: C:\Users\FABIAN\Desktop\CAMPAÑA LUCHO\ayudaricardo.local\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: http://ayudaricardo.local/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6
+File Name: C:\Users\FABIAN\Desktop\CAMPAÑA LUCHO\ayudaricardo.local\wp-content\plugins\elementor\assets\lib\swiper\swiper.min.js
+Content Type: application/javascript
+
+Uri: http://ayudaricardo.local/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=3.3.1
+File Name: C:\Users\FABIAN\Desktop\CAMPAÑA LUCHO\ayudaricardo.local\wp-content\plugins\elementor\assets\lib\share-link\share-link.min.js
+Content Type: application/javascript
+
+Uri: http://ayudaricardo.local/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.8.1
+File Name: C:\Users\FABIAN\Desktop\CAMPAÑA LUCHO\ayudaricardo.local\wp-content\plugins\elementor\assets\lib\dialog\dialog.min.js
+Content Type: application/javascript
+
+Uri: http://ayudaricardo.local/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.3.1
+File Name: C:\Users\FABIAN\Desktop\CAMPAÑA LUCHO\ayudaricardo.local\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: http://ayudaricardo.local/wp-content/plugins/elementor/assets/js/preloaded-modules.min.js?ver=3.3.1
+File Name: C:\Users\FABIAN\Desktop\CAMPAÑA LUCHO\ayudaricardo.local\wp-content\plugins\elementor\assets\js\preloaded-modules.min.js
+Content Type: application/javascript
+
+Uri: http://ayudaricardo.local/wp-content/uploads/2021/07/10733779_10153782367121414_6513946227814466609_o-150x150.jpg
+File Name: C:\Users\FABIAN\Desktop\CAMPAÑA LUCHO\ayudaricardo.local\wp-content\uploads\2021\07\10733779_10153782367121414_6513946227814466609_o-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://ayudaricardo.local/wp-content/uploads/2021/07/10733779_10153782367121414_6513946227814466609_o-300x300.jpg
+File Name: C:\Users\FABIAN\Desktop\CAMPAÑA LUCHO\ayudaricardo.local\wp-content\uploads\2021\07\10733779_10153782367121414_6513946227814466609_o-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://ayudaricardo.local/wp-content/uploads/2021/07/10733779_10153782367121414_6513946227814466609_o-768x768.jpg
+File Name: C:\Users\FABIAN\Desktop\CAMPAÑA LUCHO\ayudaricardo.local\wp-content\uploads\2021\07\10733779_10153782367121414_6513946227814466609_o-768x768.jpg
+Content Type: image/jpeg
+
+Uri: http://ayudaricardo.local/wp-content/uploads/2021/07/171099_10150124729356414_737386_o-150x150.jpg
+File Name: C:\Users\FABIAN\Desktop\CAMPAÑA LUCHO\ayudaricardo.local\wp-content\uploads\2021\07\171099_10150124729356414_737386_o-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://ayudaricardo.local/wp-content/uploads/2021/07/171099_10150124729356414_737386_o-300x300.jpg
+File Name: C:\Users\FABIAN\Desktop\CAMPAÑA LUCHO\ayudaricardo.local\wp-content\uploads\2021\07\171099_10150124729356414_737386_o-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://ayudaricardo.local/wp-content/uploads/2021/07/171099_10150124729356414_737386_o-768x768.jpg
+File Name: C:\Users\FABIAN\Desktop\CAMPAÑA LUCHO\ayudaricardo.local\wp-content\uploads\2021\07\171099_10150124729356414_737386_o-768x768.jpg
+Content Type: image/jpeg
+
+Uri: http://ayudaricardo.local/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.12.0
+File Name: C:\Users\FABIAN\Desktop\CAMPAÑA LUCHO\ayudaricardo.local\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://ayudaricardo.local/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.12.0
+File Name: C:\Users\FABIAN\Desktop\CAMPAÑA LUCHO\ayudaricardo.local\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons-1.woff2
+Content Type: 
+
+Uri: http://ayudaricardo.local/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.12.0
+File Name: C:\Users\FABIAN\Desktop\CAMPAÑA LUCHO\ayudaricardo.local\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons-1.woff
+Content Type: application/font-woff
+
+Uri: http://ayudaricardo.local/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.12.0
+File Name: C:\Users\FABIAN\Desktop\CAMPAÑA LUCHO\ayudaricardo.local\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons-1.ttf
+Content Type: application/font-sfnt
+
+Uri: http://ayudaricardo.local/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.12.0
+File Name: C:\Users\FABIAN\Desktop\CAMPAÑA LUCHO\ayudaricardo.local\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons-1.svg
+Content Type: image/svg+xml
+
+Uri: http://ayudaricardo.local/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot
+File Name: C:\Users\FABIAN\Desktop\CAMPAÑA LUCHO\ayudaricardo.local\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://ayudaricardo.local/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot?
+File Name: C:\Users\FABIAN\Desktop\CAMPAÑA LUCHO\ayudaricardo.local\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://ayudaricardo.local/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2
+File Name: C:\Users\FABIAN\Desktop\CAMPAÑA LUCHO\ayudaricardo.local\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff2
+Content Type: 
+
+Uri: http://ayudaricardo.local/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff
+File Name: C:\Users\FABIAN\Desktop\CAMPAÑA LUCHO\ayudaricardo.local\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: http://ayudaricardo.local/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf
+File Name: C:\Users\FABIAN\Desktop\CAMPAÑA LUCHO\ayudaricardo.local\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.ttf
+Content Type: application/font-sfnt
+
+Uri: http://ayudaricardo.local/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.svg
+File Name: C:\Users\FABIAN\Desktop\CAMPAÑA LUCHO\ayudaricardo.local\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: http://ayudaricardo.local/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot
+File Name: C:\Users\FABIAN\Desktop\CAMPAÑA LUCHO\ayudaricardo.local\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://ayudaricardo.local/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot?
+File Name: C:\Users\FABIAN\Desktop\CAMPAÑA LUCHO\ayudaricardo.local\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://ayudaricardo.local/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2
+File Name: C:\Users\FABIAN\Desktop\CAMPAÑA LUCHO\ayudaricardo.local\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff2
+Content Type: 
+
+Uri: http://ayudaricardo.local/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff
+File Name: C:\Users\FABIAN\Desktop\CAMPAÑA LUCHO\ayudaricardo.local\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: http://ayudaricardo.local/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.ttf
+File Name: C:\Users\FABIAN\Desktop\CAMPAÑA LUCHO\ayudaricardo.local\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.ttf
+Content Type: application/font-sfnt
+
+Uri: http://ayudaricardo.local/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.svg
+File Name: C:\Users\FABIAN\Desktop\CAMPAÑA LUCHO\ayudaricardo.local\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: http://ayudaricardo.local/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot
+File Name: C:\Users\FABIAN\Desktop\CAMPAÑA LUCHO\ayudaricardo.local\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://ayudaricardo.local/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot?
+File Name: C:\Users\FABIAN\Desktop\CAMPAÑA LUCHO\ayudaricardo.local\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://ayudaricardo.local/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+File Name: C:\Users\FABIAN\Desktop\CAMPAÑA LUCHO\ayudaricardo.local\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff2
+Content Type: 
+
+Uri: http://ayudaricardo.local/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff
+File Name: C:\Users\FABIAN\Desktop\CAMPAÑA LUCHO\ayudaricardo.local\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: http://ayudaricardo.local/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf
+File Name: C:\Users\FABIAN\Desktop\CAMPAÑA LUCHO\ayudaricardo.local\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.ttf
+Content Type: application/font-sfnt
+
+Uri: http://ayudaricardo.local/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg
+File Name: C:\Users\FABIAN\Desktop\CAMPAÑA LUCHO\ayudaricardo.local\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: http://ayudaricardo.local/wp-content/uploads/2021/07/23.jpg
+File Name: C:\Users\FABIAN\Desktop\CAMPAÑA LUCHO\ayudaricardo.local\wp-content\uploads\2021\07\23.jpg
+Content Type: image/jpeg
+
